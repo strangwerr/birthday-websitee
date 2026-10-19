@@ -1,0 +1,1 @@
+Add photo1.jpg through photo6.jpg here, and list extra photos in the PHOTOS array in script.js.
